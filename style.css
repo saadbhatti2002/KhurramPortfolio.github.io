@@ -166,9 +166,10 @@ section .title::after{
 .home{
     display: flex;
     background: url("adrien-olichon-ilVYjf0J378-unsplash\ \(3\).jpg") no-repeat center;
-    color: #fff;
+    
     
     height: 100vh;
+    color: #fff;
     
     min-height: 500px;
     background-size: cover;
@@ -183,7 +184,7 @@ section .title::after{
   margin-right: 0;
 }
 .home .home-content .text-1{
-    color: #f1f1f1;
+    
     font-size: 27px;
 }
 .home .home-content .text-2{
