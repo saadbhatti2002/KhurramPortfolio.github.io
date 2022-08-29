@@ -167,7 +167,7 @@ section .title::after{
     display: flex;
     background: url("adrien-olichon-ilVYjf0J378-unsplash\ \(3\).jpg") no-repeat center;
     height: 100vh;
-    color: #fff;
+    
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
